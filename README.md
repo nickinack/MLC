@@ -17,7 +17,7 @@ After compiling, create your input files in <i>input_files/inputs.txt</i>. Run t
 ```
 - For <b>DBSCAN</b>, use the following command
 ```bash
-./a input_files/inputs.txt <Minimum number of points> <ephsilon> <Point Cluster Comparator integer>
+./a ../input_files/inputs.txt <Minimum number of points> <ephsilon> <Point Cluster Comparator integer>
 ```
 
 Voila! You can get your results at <i>output_files/results.txt</i>
