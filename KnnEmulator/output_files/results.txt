@@ -1,0 +1,14 @@
+<!--------Clusters------->
+-3.875 3.4 
+1.95 3.35 
+<!-----EndClusters------->
+<!--------Points--------->
+0  Cluster 1  2 4 
+1  Cluster 0  -3 3 
+2  Cluster 1  2 3 
+3  Cluster 1  1 4 
+4  Cluster 0  -4 5 
+5  Cluster 0  -4.3 3.4 
+6  Cluster 1  2.8 2.4 
+7  Cluster 0  -4.2 2.2 
+<!-----EndPoints--------->
