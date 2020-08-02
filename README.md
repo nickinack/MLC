@@ -1,7 +1,5 @@
-# MLC++
-:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: Work In Progress :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 
-# About
+# :sparkles: :sparkles: About :sparkles: :sparkles:
 The MLC++ is a collection of C++ Emulators for unsupervised clustering algorithms. The algorithms planned to be coded are KNN clustering , DBSCAN clustering and PCA reduction with optimised space and time complexity. The objective of this project is to get a deeper understanding and working of each of the above mentioned algorithm. Work is in progress. The project uses file handling as a method to store data. Programs have been segmented into modular files in order to have an easier workflow.
 
 # Running
@@ -18,6 +16,10 @@ After compiling, create your input files in <i>input_files/inputs.txt</i>. Run t
 - For <b>DBSCAN</b>, use the following command
 ```bash
 ./a ../input_files/inputs.txt <Minimum number of points> <ephsilon> <Point Cluster Comparator integer>
+```
+-For <b>PCA</b>, use the following command
+```bash
+./a ../input_files/inputs.txt 
 ```
 
 Voila! You can get your results at <i>output_files/results.txt</i>
