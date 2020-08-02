@@ -2,7 +2,7 @@
 :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: Work In Progress :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
 
 # About
-The MLC++ is a collection of C++ Emulators for unsupervised clustering algorithms. The algorithms planned to be coded are KNN clustering , DBSCAN clustering and Hirearchial clustering with optimised space and time complexity. The objective of this project is to get a deeper understanding and working of each of the above mentioned algorithm. Work is in progress. The project uses file handling as a method to store data. Programs have been segmented into modular files in order to have an easier workflow.
+The MLC++ is a collection of C++ Emulators for unsupervised clustering algorithms. The algorithms planned to be coded are KNN clustering , DBSCAN clustering and PCA reduction with optimised space and time complexity. The objective of this project is to get a deeper understanding and working of each of the above mentioned algorithm. Work is in progress. The project uses file handling as a method to store data. Programs have been segmented into modular files in order to have an easier workflow.
 
 # Running
 Go to the directory which contains your desired clustering algorithm and type the following commands
